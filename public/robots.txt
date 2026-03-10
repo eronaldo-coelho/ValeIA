@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /completar-cadastro
+Disallow: /login
+Disallow: /register
+Allow: /
+
+Sitemap: https://valeia.com.br/sitemap.xml
